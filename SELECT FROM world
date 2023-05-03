@@ -1,0 +1,7 @@
+-- SELECT from WORLD Tutorial
+
+
+-- 1.
+-- Read the notes about this table. Observe the result of running a simple SQL command.
+
+SELECT name, continent, population FROM world;
